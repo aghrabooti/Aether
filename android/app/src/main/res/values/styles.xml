@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Aether" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#7357FF</item>
+        <item name="android:navigationBarColor">#0D0D18</item>
+        <item name="android:statusBarColor">#0D0D18</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
